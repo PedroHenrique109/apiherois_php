@@ -1,0 +1,25 @@
+{
+  "name": "apiherois_php",
+  "version": "1.0.0",
+  "description": "Criaçao de Apiherois",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroHenrique109/apiherois_php.git"
+  },
+  "keywords": [],
+  "author": "PedroHenrique109",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroHenrique109/apiherois_php/issues"
+  },
+  "homepage": "https://github.com/PedroHenrique109/apiherois_php#readme"
+}
